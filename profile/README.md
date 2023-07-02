@@ -1,4 +1,4 @@
-![suipi-logo](https://playsuipi.com/wp-content/uploads/2021/06/LongNameYellow_transparent.png)
+[![suipi-logo](https://playsuipi.com/wp-content/uploads/2021/06/LongNameYellow_transparent.png)](https://playsuipi.com)
 
 # Play Suipi any time you want!
 
